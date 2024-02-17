@@ -2,7 +2,8 @@
     "files.associations": {
         "cmath": "cpp",
         "complex": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "string": "cpp"
     },
     "C_Cpp.errorSquiggles": "enabled"
 }
